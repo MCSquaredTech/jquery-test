@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "es6-module-loader": "^0.17.11",
+    "jquery": "^3.7.0",
+    "material-design-lite": "^1.3.0",
+    "traceur": "^0.0.111"
+  }
+}
